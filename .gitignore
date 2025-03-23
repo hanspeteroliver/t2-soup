@@ -1,0 +1,6 @@
+*.pem
+*.key
+*.env
+.ssh/
+.gnupg/
+.cache/
