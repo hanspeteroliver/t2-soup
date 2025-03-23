@@ -1,6 +1,7 @@
 *.pem
 *.key
 *.env
+*.sqlite
 .ssh/
 .gnupg/
 .cache/
