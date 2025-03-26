@@ -10,4 +10,4 @@ system/disks*
 system/usb*
 system/memory*
 system/network*
-export.sh
+export.sh*
