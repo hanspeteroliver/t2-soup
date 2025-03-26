@@ -5,3 +5,8 @@
 .ssh/
 .gnupg/
 .cache/
+system/cpu*
+system/disks*
+system/usb*
+system/memory*
+system/network*

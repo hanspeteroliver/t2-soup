@@ -1,0 +1,1 @@
+['dash-to-dock@micxgx.gmail.com', 'ddterm@amezin.github.com', 'clipboard-indicator@tudmotu.com', 'monitor@astraext.github.io', 'unredirect@vaina.lt', 'transparent-top-bar@zhanghai.me', 'blur-my-shell@aunetx', 'clipboard-history@alexsaveau.dev']
