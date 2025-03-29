@@ -54,4 +54,7 @@ _set_prompt
 alias soup='/usr/bin/git --git-dir=$HOME/.t2-soup/ --work-tree=$HOME'
 
 # Created by `pipx` on 2025-03-27 09:44:19
-export PATH="$PATH:/home/amashi/.local/bin"
+export PATH="$PATH:/home/hanspeteroliver/.local/bin"
+
+# Load inputrc config
+[ -f ~/.inputrc ] && bind -f ~/.inputrc
