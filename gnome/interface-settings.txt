@@ -11,12 +11,12 @@ org.gnome.desktop.interface cursor-blink-time 1200
 org.gnome.desktop.interface cursor-blink-timeout 10
 org.gnome.desktop.interface cursor-size 24
 org.gnome.desktop.interface cursor-theme 'default'
-org.gnome.desktop.interface document-font-name 'Adwaita Sans 11'
+org.gnome.desktop.interface document-font-name 'Cantarell 11'
 org.gnome.desktop.interface enable-animations true
 org.gnome.desktop.interface enable-hot-corners false
 org.gnome.desktop.interface font-antialiasing 'rgba'
 org.gnome.desktop.interface font-hinting 'slight'
-org.gnome.desktop.interface font-name 'Adwaita Sans 11'
+org.gnome.desktop.interface font-name 'Cantarell 11'
 org.gnome.desktop.interface font-rendering 'automatic'
 org.gnome.desktop.interface font-rgba-order 'rgb'
 org.gnome.desktop.interface gtk-color-palette 'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'
@@ -34,7 +34,7 @@ org.gnome.desktop.interface locate-pointer false
 org.gnome.desktop.interface menubar-accel 'F10'
 org.gnome.desktop.interface menubar-detachable false
 org.gnome.desktop.interface menus-have-tearoff false
-org.gnome.desktop.interface monospace-font-name 'Adwaita Mono 11'
+org.gnome.desktop.interface monospace-font-name 'Source Code Pro 10'
 org.gnome.desktop.interface overlay-scrolling true
 org.gnome.desktop.interface scaling-factor uint32 0
 org.gnome.desktop.interface show-battery-percentage true
