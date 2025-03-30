@@ -1,6 +1,7 @@
 [Console]
+font-scale=1.4000000000000004
 last-window-maximised=false
-last-window-size=(938, 671)
+last-window-size=(1876, 1136)
 
 [TextEditor]
 last-save-directory='file:///home/hanspeteroliver/Documents'
@@ -20,7 +21,7 @@ window-maximized=false
 window-size=(360, 616)
 
 [control-center]
-last-panel='power'
+last-panel='display'
 window-state=(932, 568, false)
 
 [desktop/app-folders]
@@ -167,7 +168,7 @@ col-26-width=0
 [mutter]
 attach-modal-dialogs=true
 edge-tiling=true
-experimental-features=['scale-monitor-framebuffer', 'xwayland-native-scaling']
+experimental-features=['xwayland-native-scaling', 'scale-monitor-framebuffer']
 
 [nautilus/icon-view]
 default-zoom-level='small-plus'
@@ -185,7 +186,7 @@ show-delete-permanently=true
 [nautilus/window-state]
 initial-size=(1254, 820)
 initial-size-file-chooser=(890, 550)
-maximized=false
+maximized=true
 
 [portal/filechooser/code]
 last-folder-path='/home/hanspeteroliver/.local/share/pipx/venvs/mov-cli'
@@ -219,10 +220,10 @@ sleep-inactive-battery-type='nothing'
 app-picker-layout=[{'bssh.desktop': <{'position': <0>}>, 'bvnc.desktop': <{'position': <1>}>, 'org.gnome.Weather.desktop': <{'position': <2>}>, 'org.gnome.clocks.desktop': <{'position': <3>}>, 'avahi-discover.desktop': <{'position': <4>}>, 'chromium.desktop': <{'position': <5>}>, 'org.gnome.Totem.desktop': <{'position': <6>}>, 'org.gnome.Calculator.desktop': <{'position': <7>}>, 'com.github.amezin.ddterm.desktop': <{'position': <8>}>, 'electron34.desktop': <{'position': <9>}>, 'org.gnome.Settings.desktop': <{'position': <10>}>, 'org.gnome.SystemMonitor.desktop': <{'position': <11>}>, 'eos-apps-info.desktop': <{'position': <12>}>, 'org.gnome.Terminal.desktop': <{'position': <13>}>, 'Utilities': <{'position': <14>}>, 'eos-log-tool.desktop': <{'position': <15>}>, 'eos-quickstart.desktop': <{'position': <16>}>, 'eos-update.desktop': <{'position': <17>}>, 'org.gnome.Extensions.desktop': <{'position': <18>}>, 'firewall-config.desktop': <{'position': <19>}>, 'com.gitlab.cunidev.Gestures.desktop': <{'position': <20>}>, 'yad-icon-browser.desktop': <{'position': <21>}>}, {'org.gnome.Meld.desktop': <{'position': <0>}>, 'gnome-nettool.desktop': <{'position': <1>}>, 'org.gnome.PowerStats.desktop': <{'position': <2>}>, 'qv4l2.desktop': <{'position': <3>}>, 'qvidcap.desktop': <{'position': <4>}>, 'reflector-simple.desktop': <{'position': <5>}>, 'stoken-gui.desktop': <{'position': <6>}>, 'stoken-gui-small.desktop': <{'position': <7>}>, 'org.gnome.TextEditor.desktop': <{'position': <8>}>, 'uxterm.desktop': <{'position': <9>}>, 'org.pulseaudio.pavucontrol.desktop': <{'position': <10>}>, 'welcome.desktop': <{'position': <11>}>, 'xterm.desktop': <{'position': <12>}>, 'yad-settings.desktop': <{'position': <13>}>, 'BambuStudio.desktop': <{'position': <14>}>, 'blender.desktop': <{'position': <15>}>, 'org.freecad.FreeCAD.desktop': <{'position': <16>}>, 'lstopo.desktop': <{'position': <17>}>, 'Liftoff.desktop': <{'position': <18>}>, 'multimc.desktop': <{'position': <19>}>, 'jconsole-java-openjdk.desktop': <{'position': <20>}>, 'jshell-java-openjdk.desktop': <{'position': <21>}>, 'qFlipper.desktop': <{'position': <22>}>, 'assistant.desktop': <{'position': <23>}>}, {'qdbusviewer.desktop': <{'position': <0>}>, 'linguist.desktop': <{'position': <1>}>, 'designer.desktop': <{'position': <2>}>, 'steam.desktop': <{'position': <3>}>, 'code.desktop': <{'position': <4>}>}]
 command-history=['r']
 disable-user-extensions=false
-disabled-extensions=['Vitals@CoreCoding.com', 'transparent-top-bar@ftpix.com']
-enabled-extensions=['dash-to-dock@micxgx.gmail.com', 'ddterm@amezin.github.com', 'clipboard-indicator@tudmotu.com', 'monitor@astraext.github.io', 'unredirect@vaina.lt', 'transparent-top-bar@zhanghai.me', 'blur-my-shell@aunetx', 'clipboard-history@alexsaveau.dev']
+disabled-extensions=['Vitals@CoreCoding.com', 'transparent-top-bar@zhanghai.me']
+enabled-extensions=['dash-to-dock@micxgx.gmail.com', 'ddterm@amezin.github.com', 'clipboard-indicator@tudmotu.com', 'monitor@astraext.github.io', 'unredirect@vaina.lt', 'blur-my-shell@aunetx', 'clipboard-history@alexsaveau.dev', 'transparent-top-bar@ftpix.com']
 favorite-apps=['org.gnome.Nautilus.desktop', 'firefox.desktop', 'obsidian.desktop', 'code.desktop', 'enpass.desktop', 'org.gnome.Console.desktop']
-last-selected-power-profile='power-saver'
+last-selected-power-profile='performance'
 remember-mount-password=false
 welcome-dialog-last-shown-version='47.5'
 
