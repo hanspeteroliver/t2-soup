@@ -3,7 +3,7 @@ hanspeteroliver@arch1990
 OS: EndeavourOS Linux x86_64 
 Host: MacBookPro15,1 1.0 
 Kernel: 6.13.1-arch1-Watanare-T2-1-t2 
-Uptime: 11 mins 
+Uptime: 2 mins 
 Packages: 1193 (pacman) 
 Shell: bash 5.2.37 
 Resolution: 60x2170 
@@ -16,4 +16,4 @@ Terminal: kgx
 CPU: Intel i7-8750H (12) @ 4.100GHz 
 GPU: AMD ATI Radeon RX 460/560D / Pro 450/455/460/555/555X/560/560X 
 GPU: Intel CoffeeLake-H GT2 [UHD Graphics 630] 
-Memory: 2034MiB / 15885MiB 
+Memory: 1055MiB / 15885MiB 
