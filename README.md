@@ -9,11 +9,11 @@ Do not blindly apply these files in your setup! (especially as there's nothing h
 
 # Tailored for T2 Custom Linux Kernel
 Running GNU/Linux on a MacBook comes with it's own caveats, this repository is an attempt on sharing what works with my setup. 
-S/O to t2linux.org - which is where I've got my custom ISO from to install EndeavorOS, an Arch based distro, on my MacBook Pro 15" 2018 (A1990).
+S/O to t2linux.org - which is where I've got my custom ISO from to install EndeavorOS, an Arch based distro, on my MacBook Pro 15" 2018 (A1990). 
 
 # Current Setup
 ```
-$ neofetch
+$ slowfetch
                      ./o.                  hanspeterolli@arch1990 
                    ./sssso-                --------------- 
                  `:osssssss+-              OS: EndeavourOS Linux x86_64 
