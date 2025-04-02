@@ -1,5 +1,6 @@
 # t2-soup
-A collection of packages, dotfiles & allike for my GNU/Linux Setup running on a MacBook Pro with T2 Security Chip
+A collection of packages & dotfiles for my GNU/Linux Setup running on a MacBook Pro with T2 Security Chip.
+Mostly for keeping track of configuration changes.
 
 ### WIP - more ricing to come
 This repo is work-in-progress, I haven't got to including any essential config file yet. I will add custom configurations & documentation over time as I prove what works in every-day use.
