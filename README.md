@@ -36,6 +36,9 @@ $ slowfetch
 
 # WIP Setup
 
+Currently configuring hyprland as seperate WM for more customized experience, while keeping the GNOME environment functional for other, less tech-savvy users of my laptop. 
+Again, WIP! Config files will be published soon.
+
 ```
 
                      ./o.
