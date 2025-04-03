@@ -34,35 +34,12 @@ $ slowfetch
 ```
                                            
 
-# WIP Setup
+# WIP: Hyprland!
 
 Currently configuring hyprland as seperate WM for more customized experience, while keeping the GNOME environment functional for other, less tech-savvy users of my laptop. 
 Again, WIP! Config files will be published soon.
 
-```
-
-                     ./o.
-                   ./sssso-                 OS    ➜  EndeavourOS x86_64
-                 `:osssssss+-                ├   ➜  Linux 6.13.1-arch1-Watanare-T2-1-t2
-               `:+sssssssssso/.              └   ➜  bash 5.2.37
-             `-/ossssssssssssso/.
-           `-/+sssssssssssssssso+:`         WM    ➜  Hyprland (Wayland)
-         `-:/+sssssssssssssssssso+/.         ├ 󰀻  ➜  Papirus [GTK2]
-       `.://osssssssssssssssssssso++-        ├   ➜  Bibata-Modern-Ice (24px)
-      .://+ssssssssssssssssssssssso++:       ├   ➜  alacritty 0.15.1
-    .:///ossssssssssssssssssssssssso++:      └   ➜  FiraCode (12.0pt)
-  `:////ssssssssssssssssssssssssssso+++.
-`-////+ssssssssssssssssssssssssssso++++-    PC    ➜  Apple Inc. MacBook Pro Type MacBookPro15,1
- `..-+oosssssssssssssssssssssssso+++++/`     ├   ➜  Intel(R) Core(TM) i7-8750H (6) @ 4.10 GHz GHz
-   ./++++++++++++++++++++++++++++++/:.       ├ 󰢮  ➜  AMD AMD Radeon Pro Series @  GHz
-  `:::::::::::::::::::::::::------``         ├ 󰢮  ➜  Intel UHD Graphics 630 @ 1.10 GHz GHz
-                                             ├   ➜  3.45 GiB / 15.51 GiB (22%)
-                                             ├ 󰓡  ➜  Disabled
-                                             ├ 󰋊  ➜  25.74 GiB / 124.43 GiB (21%) - ext4
-                                             ├ 󰋊  ➜  515.35 GiB / 662.82 GiB (78%) - ext4
-                                             └   ➜  2880x1800 px @ 60.001 Hz - 330x210 mm (15.40 inches, 220.54 ppi)
-
-```
+![2025-04-03-221836_hyprshot](https://github.com/user-attachments/assets/275fb9b6-c639-47a7-b3a5-bbaca228d70e)
 
                                                                    
                                                                    
