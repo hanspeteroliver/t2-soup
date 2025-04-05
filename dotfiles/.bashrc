@@ -1,6 +1,32 @@
-#
-# ~/.bashrc
-#
+#    _               _              
+#   | |__   __ _ ___| |__  _ __ ___ 
+#   | '_ \ / _` / __| '_ \| '__/ __|
+#  _| |_) | (_| \__ \ | | | | | (__ 
+# (_)_.__/ \__,_|___/_| |_|_|  \___|
+# 
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+PS1='[\u@\h \W]\$ '
+
+# -----------------------------------------------------
+# LOAD CUSTOM .bashrc_custom if exists
+# -----------------------------------------------------
+if [ -f ~/.bashrc_custom ] ;then
+    source ~/.bashrc_custom
+fi
+
+# -----------------------------------------------------
+# Fastfetch if in Hyprland
+# -----------------------------------------------------
+if [[ $(tty) == *"pts"* ]]; then
+    fastfetch
+else
+    echo
+    echo "Start Hyprland with command Hyprland"
+fi
+
+alias ml4w-hyprland='~/.config/ml4w/apps/ML4W_Hyprland_Settings-x86_64.AppImage'
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
@@ -53,8 +79,8 @@ _set_prompt
 # To manage bare repo more easily
 alias soup='/usr/bin/git --git-dir=$HOME/.t2-soup/ --work-tree=$HOME'
 
-# Created by `pipx` on 2025-03-27 09:44:19
-export PATH="$PATH:/home/hanspeteroliver/.local/bin"
-
 # Load inputrc config
 [ -f ~/.inputrc ] && bind -f ~/.inputrc
+
+# Created by `pipx` on 2025-04-02 13:51:08
+export PATH="$PATH:/home/hanspeteroliver/.local/bin"
