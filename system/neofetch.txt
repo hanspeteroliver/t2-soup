@@ -3,17 +3,16 @@ hanspeteroliver@arch1990
 OS: EndeavourOS Linux x86_64 
 Host: MacBookPro15,1 1.0 
 Kernel: 6.13.1-arch1-Watanare-T2-1-t2 
-Uptime: 2 mins 
-Packages: 1193 (pacman) 
+Uptime: 17 hours, 10 mins 
+Packages: 1367 (pacman), 11 (flatpak) 
 Shell: bash 5.2.37 
 Resolution: 60x2170 
-DE: GNOME 47.5 
-WM: Mutter 
-WM Theme: Adwaita 
-Theme: Adwaita-dark [GTK2/3] 
-Icons: kora [GTK2/3] 
-Terminal: kgx 
+DE: Hyprland 
+WM: sway 
+Theme: Adwaita [GTK2], Adwaita-dark [GTK3] 
+Icons: Papirus [GTK2], kora [GTK3] 
+Terminal: alacritty 
 CPU: Intel i7-8750H (12) @ 4.100GHz 
 GPU: AMD ATI Radeon RX 460/560D / Pro 450/455/460/555/555X/560/560X 
 GPU: Intel CoffeeLake-H GT2 [UHD Graphics 630] 
-Memory: 1055MiB / 15885MiB 
+Memory: 3353MiB / 15885MiB 
