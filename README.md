@@ -3,9 +3,10 @@ A collection of packages & dotfiles for my GNU/Linux Setup running on a MacBook 
 Mostly for keeping track of configuration changes.
 
 ### WIP - more ricing to come
-This repo is work-in-progress, I haven't got to including any essential config file yet. I will add custom configurations & documentation over time as I prove what works in every-day use.
+This repo is work-in-progress, I haven't got to including all essential config file yet. I will add more custom configurations & documentation over time as I prove what works in every-day use.
+In addition, I just transitioned from the Arch based distro EndeavourOS that I have been using for a good year to a self-configured, Vanilla Arch Setup. I might put this in a seperate repo though.
 
-Do not blindly apply these files in your setup! (especially as there's nothing here yet :D)
+Do not blindly apply these files in your setup! (especially as there's not everything here yet :D)
 
 # Tailored for T2 Custom Linux Kernel
 Running GNU/Linux on a MacBook comes with it's own caveats, this repository is an attempt on sharing what works with my setup. 
