@@ -39,7 +39,7 @@ $ neofetch
 
 Currently configuring hyprland as seperate WM for more customized experience, while keeping the GNOME environment functional for other, less tech-savvy users of my laptop. 
 Again, WIP! Basic Config files are already included, rest be published soon.
-Also - I don't know whether to keep GNOME.
+Also - still not sure if I will push my vanilla arch setup heavily by hyDE (formerly hyprdots) to a seperate repo or in here.
 
 ![2025-04-03-221836_hyprshot](https://github.com/user-attachments/assets/275fb9b6-c639-47a7-b3a5-bbaca228d70e)
 
