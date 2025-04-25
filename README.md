@@ -2,6 +2,9 @@
 A collection of packages & dotfiles for my GNU/Linux Setup running on a MacBook Pro with T2 Security Chip.
 Mostly for keeping track of configuration changes.
 
+# Next Up: Documentation
+yeah i know this repo seems unorganized right now. I'll try to shed some light into the dark, + also cover things like suspend which i had to built a more heavy workaround for. 
+
 ### WIP
 This repo is work-in-progress, I haven't got to including all configs files yet. That being said, I will add more custom configurations & documentation over time as I prove what works in every-day use.
 In addition, I just transitioned from the Arch based distro EndeavourOS that I have been using for a good year to a self-configured, Vanilla Arch Setup. I might put this in a seperate repo though.
