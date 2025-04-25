@@ -14,7 +14,7 @@ S/O to t2linux.org - which is where I've got my custom ISO from to install Endea
 
 # Current Setup
 ```
-$ slowfetch
+$ neofetch
                      ./o.                  hanspeterolli@arch1990 
                    ./sssso-                --------------- 
                  `:osssssss+-              OS: EndeavourOS Linux x86_64 
@@ -38,7 +38,8 @@ $ slowfetch
 # WIP: Hyprland!
 
 Currently configuring hyprland as seperate WM for more customized experience, while keeping the GNOME environment functional for other, less tech-savvy users of my laptop. 
-Again, WIP! Config files will be published soon.
+Again, WIP! Basic Config files are already included, rest be published soon.
+Also - I don't know whether to keep GNOME.
 
 ![2025-04-03-221836_hyprshot](https://github.com/user-attachments/assets/275fb9b6-c639-47a7-b3a5-bbaca228d70e)
 
