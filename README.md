@@ -40,7 +40,7 @@ $ neofetch
 ```
                                            
 
-# WIP: Hyprland!
+# WIP: Hyprland
 
 Currently configuring hyprland as seperate WM for more customized experience, while keeping the GNOME environment functional for other, less tech-savvy users of my laptop. 
 Again, WIP! Basic Config files are already included, rest be published soon.
